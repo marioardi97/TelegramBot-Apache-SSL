@@ -4,7 +4,8 @@ Bot ini untuk yang malas eh memudahkan menambahkan Config Domain dan Instalasi S
 
 Bot ini memungkinkan pengguna untuk menambahkan konfigurasi Apache dan menginstal sertifikat SSL menggunakan `acme.sh`. Bot ini aman dari akses ilegal karena melakukan validasi pada `chat_ids` yang terdaftar.
 
-![config](https://github.com/user-attachments/assets/09825bf8-5596-41e0-910f-c15287312435)
+
+![config](https://github.com/user-attachments/assets/20d36e3e-c313-4543-84cb-543fbf9171b4)
 
 
 
